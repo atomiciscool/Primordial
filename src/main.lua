@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Bovanlaarhoven/Primordial/main/src/utils/bypass.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/atomiciscool/Primordial/main/src/utils/bypass.lua"))()
 
 local Players        = game:GetService('Players')
 local RunService     = game:GetService('RunService')
